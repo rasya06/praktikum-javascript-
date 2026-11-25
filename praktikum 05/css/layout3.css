@@ -1,0 +1,8 @@
+body { margin: 0; padding: 20px; font-family: Arial, sans-serif; color: #fff; }
+.halaman { display: flex; flex-direction: column; gap: 6px; width: 420px; max-width: 100%; margin: 0 auto; background: #ffadad; padding: 6px; }
+header, footer { background: #99d5cf; text-align: center; padding: 6px; }
+.tengah { display: flex; gap: 6px; }
+aside { width: 25%; background: #66b5b4; display: flex; align-items: center; justify-content: center; min-height: 130px; }
+article { flex: 1; background: #fc7c7c; display: flex; flex-direction: column; align-items: center; justify-content: flex-end; padding: 8px; gap: 8px; }
+.gambar { display: flex; gap: 8px; }
+.gambar div { background: #d3d3d3; width: 45px; height: 40px; display: flex; align-items: center; justify-content: center; font-size: 11px; }

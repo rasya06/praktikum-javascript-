@@ -1,0 +1,7 @@
+body { margin: 0; padding: 20px; font-family: "Times New Roman", serif; }
+.halaman { display: flex; flex-direction: column; width: 340px; max-width: 100%; height: 190px; margin: 0 auto; }
+header, footer { background: #f0e68c; padding: 10px; }
+.tengah { display: flex; flex: 1; }
+article { flex: 1; background: #fff; padding: 10px; }
+aside { width: 70px; background: pink; padding: 10px; }
+nav { width: 70px; background: #00dcc8; padding: 10px; }
